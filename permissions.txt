@@ -1,2 +1,1 @@
-C:\Users\maxgo
-C:\Users\melih
+melih:hallo
